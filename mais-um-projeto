@@ -1,0 +1,63 @@
+NÃO ME CONTENTEI E FUI ATRAS DE FAZER OUTRO KKKK.
+AQUI VAI MAIS UM PROJETO
+📒 Descrição
+Criação de um vídeo promocional e convite para a Escola Bíblica Dominical (EBD) da Assembleia de Deus, utilizando múltiplas ferramentas de Inteligência Artificial Generativa para a composição visual, textual e auditiva. O objetivo era produzir um material de alta qualidade e engajamento para as redes sociais e comunicação interna da igreja.
+
+🤖 Tecnologias Utilizadas
+CapCut: Plataforma principal de edição de vídeo, utilizada para:
+
+Sincronização de áudio e vídeo.
+
+Criação de um Avatar Digital próprio (usando recursos de IA do app).
+
+Geração de narração (áudio) a partir de texto (TTS - Text-to-Speech) com a minha voz capturada (recurso de clonagem de voz do CapCut).
+
+Google Gemini: Utilizado para a geração do Prompt de Imagem e do Prompt de Narração/Roteiro.
+
+IA Generativa de Imagem (CapCut/outra): Para criar a imagem de fundo do vídeo (cenário da sala de aula/igreja).
+
+🧐 Processo de Criação
+Geração do Roteiro e Imagens (Gemini):
+
+Prompt de Narração (Roteiro): Usei o Gemini para desenvolver um texto convincente e acolhedor para a chamada da Escola Bíblica Dominical, focando em palavras-chave como "aprendizado", "comunhão", "família" e "aproximação do Criador". O texto final foi: "Você é nosso convidado especial para viver momentos de aprendizado e comunhão! Na Escola Bíblica Dominical da Assembleia de Deus, mergulhamos nas Escrituras para estudar a Palavra de Deus com alegria, profundidade e muita fé. É um tempo precioso onde juntos, desvendamos os ensinamentos que transformam nossas vidas e nos aproximam do Criador. Aqui adultos, jovens e crianças encontram um espaço para aprender, tirar dúvidas e crescer na graça e no conhecimento de Jesus Cristo. Venha crescer espiritualmente e fortalecer sua vida cristã em um ambiente de amizade e acolhimento. A cada domingo, temos uma nova oportunidade de renovar nossa mente e nosso espírito. É o momento perfeito para refletir, orar e compartilhar as bênçãos que Deus tem derramado sobre nós. Esperamos você neste domingo, às 9 da manhã, para juntos adorarmos e aprendermos mais do Senhor. Traga a sua Bíblia e sua família! Deus tem uma palavra para o seu coração."
+
+
+Criação do Áudio (CapCut):
+
+Clonagem de Voz: Gravei um trecho da minha voz no CapCut para que a IA generativa do aplicativo pudesse criar o áudio da narração com uma entonação natural e pessoal (usando o meu próprio timbre).
+
+Geração da Narração: Inseri o roteiro gerado pelo Gemini no CapCut e usei a ferramenta de TTS com a minha voz clonada para gerar o áudio completo do vídeo.
+
+Criação e Edição do Vídeo (CapCut):
+
+Avatar Digital: Utilize a ferramenta de avatar do CapCut, que permitiu usar uma imagem minha e animá-la com o áudio gerado, criando um apresentador que 'fala' no canto inferior da tela.
+
+Montagem Visual:
+
+Fiz o upload das imagens geradas via prompt (as famílias em estudo/adoração) para servirem de fundo.
+
+Sincronizei o áudio da narração com as imagens.
+
+Adicionei legendas/texto dinâmico na tela, adaptando-o ao estilo aesthetic e chamativo, conforme o áudio progredia, destacando as principais frases do convite.
+
+🚀 Resultados
+O resultado foi um convite em vídeo de 1 minuto e 15 segundos, com uma narração profissional e acolhedora, utilizando minha própria voz. A combinação do avatar, das legendas dinâmicas e das imagens geradas por IA resultou em um material visualmente atraente e emocionalmente engajador, perfeito para a divulgação do evento, com uma aparência de produção de alto nível sem a necessidade de filmagens complexas ou locução profissional externa.
+
+
+
+💭 Reflexão (Opcional)
+O desafio de criar algo 'natty' (natural e autêntico) com IA reside na customização. A clonagem de voz no CapCut foi crucial para que a mensagem não soasse robótica e mantivesse um toque pessoal (a voz do comunicador da igreja). Além disso, o uso de prompts de imagem e roteiro bem elaborados no Gemini garantiu que o conteúdo gerasse uma conexão genuína e estética que, à primeira vista, não entrega a origem 100% generativa, mas sim um trabalho de design e produção.
+
+
+
+
+
+
+
+
+
+
+
+
+Ferramentas
+
