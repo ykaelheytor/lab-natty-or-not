@@ -1,51 +1,42 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Projeto Extremamente Aesthetic ;)
+📒 Descrição
 
-## 🚀 Introdução
+Este projeto é um vídeo curto criado para convidar pessoas a participarem da Escola Bíblica Dominical da igreja, utilizando recursos de IA para gerar cena, personagem e narração de forma cinematográfica e envolvente. O foco é criar uma atmosfera acolhedora e inspiradora, destacando o convite de forma clara e elegante.
 
-> Woooow! Look at this 👀
+🤖 Tecnologias Utilizadas
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Veo 3 (via Canva) – Gerador de vídeo com IA a partir de texto
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Canva – Plataforma de criação e edição de vídeo
 
-### Objetivos
+Prompt detalhado em inglês para geração de vídeo cinematográfico
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Música de fundo: piano e cordas suaves (geradas pelo Canva)
 
-### Template
+🧐 Processo de Criação
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Planejamento da cena: Escolhi um salão moderno típico das igrejas Assembleia de Deus, com bancos de madeira e púlpito, sem símbolos de cruz.
 
-## 📒 Descrição
-Breve descrição do seu projeto
+Criação do personagem: Homem de 35 anos, cabelo castanho com leves fios grisalhos, roupa social elegante que transmite confiança.
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Roteiro e diálogo: Criei uma fala curta, clara e amigável em português, ideal para o tempo de vídeo de 8 segundos:
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+“Venha participar da nossa escola biblica dominical neste domingo as 9 da manhã. Esperamos por você."
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+Geração do vídeo: Usei o Veo 3 dentro do Canva para gerar a cena, aplicando iluminação cinematográfica, movimentos de câmera suaves e música de fundo.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+🚀 Resultados
 
-### Exemplos e Insigths
+Vídeo de 8 segundos, com atmosfera acolhedora e cinematográfica.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Personagem interativo que fala diretamente com o público, transmitindo confiança e cordialidade.
 
-## Links Interessantes
+Cenário e iluminação cuidadosamente pensados para inspirar atenção e interesse.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+https://github.com/user-attachments/assets/513749b2-0ede-45b6-a5e5-72620167fe3b
+
+
+💭 Reflexão
+
+Criar um conteúdo curto, porém impactante e esteticamente agradável, foi um desafio interessante. Trabalhar com IA generativa exigiu detalhar cada elemento da cena, desde o personagem até a música e iluminação, mostrando como prompt bem construído faz toda a diferença no resultado final.
