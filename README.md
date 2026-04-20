@@ -33,17 +33,11 @@ Personagem interativo que fala diretamente com o público, transmitindo confian�
 
 Cenário e iluminação cuidadosamente pensados para inspirar atenção e interesse.
 
-
 https://github.com/user-attachments/assets/513749b2-0ede-45b6-a5e5-72620167fe3b
-
 
 💭 Reflexão
 
 Criar um conteúdo curto, porém impactante e esteticamente agradável, foi um desafio interessante. Trabalhar com IA generativa exigiu detalhar cada elemento da cena, desde o personagem até a música e iluminação, mostrando como prompt bem construído faz toda a diferença no resultado final.
-
-
-
-
 
 NÃO ME CONTENTEI E FIZ UM NOVO PROJETO.
 
@@ -68,7 +62,6 @@ Geração do Roteiro e Imagens (Gemini):
 
 Prompt de Narração (Roteiro): Usei o Gemini para desenvolver um texto convincente e acolhedor para a chamada da Escola Bíblica Dominical, focando em palavras-chave como "aprendizado", "comunhão", "família" e "aproximação do Criador". O texto final foi: "Você é nosso convidado especial para viver momentos de aprendizado e comunhão! Na Escola Bíblica Dominical da Assembleia de Deus, mergulhamos nas Escrituras para estudar a Palavra de Deus com alegria, profundidade e muita fé. É um tempo precioso onde juntos, desvendamos os ensinamentos que transformam nossas vidas e nos aproximam do Criador. Aqui adultos, jovens e crianças encontram um espaço para aprender, tirar dúvidas e crescer na graça e no conhecimento de Jesus Cristo. Venha crescer espiritualmente e fortalecer sua vida cristã em um ambiente de amizade e acolhimento. A cada domingo, temos uma nova oportunidade de renovar nossa mente e nosso espírito. É o momento perfeito para refletir, orar e compartilhar as bênçãos que Deus tem derramado sobre nós. Esperamos você neste domingo, às 9 da manhã, para juntos adorarmos e aprendermos mais do Senhor. Traga a sua Bíblia e sua família! Deus tem uma palavra para o seu coração."
 
-
 Criação do Áudio (CapCut):
 
 Clonagem de Voz: Gravei um trecho da minha voz no CapCut para que a IA generativa do aplicativo pudesse criar o áudio da narração com uma entonação natural e pessoal (usando o meu próprio timbre).
@@ -90,11 +83,9 @@ Adicionei legendas/texto dinâmico na tela, adaptando-o ao estilo aesthetic e ch
 🚀 Resultados
 O resultado foi um convite em vídeo de 1 minuto e 15 segundos, com uma narração profissional e acolhedora, utilizando minha própria voz. A combinação do avatar, das legendas dinâmicas e das imagens geradas por IA resultou em um material visualmente atraente e emocionalmente engajador, perfeito para a divulgação do evento, com uma aparência de produção de alto nível sem a necessidade de filmagens complexas ou locução profissional externa.
 
-
-
 https://github.com/user-attachments/assets/4460359b-67f6-40fe-b8a5-21b29b91924c
-
-
 
 💭 Reflexão (Opcional)
 O desafio de criar algo 'natty' (natural e autêntico) com IA reside na customização. A clonagem de voz no CapCut foi crucial para que a mensagem não soasse robótica e mantivesse um toque pessoal (a voz do comunicador da igreja). Além disso, o uso de prompts de imagem e roteiro bem elaborados no Gemini garantiu que o conteúdo gerasse uma conexão genuína e estética que, à primeira vista, não entrega a origem 100% generativa, mas sim um trabalho de design e produção.
+
+Realizando alterações de testes para o nosso repositório
